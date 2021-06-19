@@ -1,7 +1,7 @@
 # ♐ Aditya Saini
-:wave: Hello World, I am Aditya. <br>
-🔹 I am a Frontend Developer. <br>
-🌱 IT Undergraduate.<br>
+:wave: Hello World, I am Aditya. <br><br>
+🔹 I am a Frontend Developer. <br><br>
+🌱 IT Undergraduate.<br><br>
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aditya-saini-286aa2182/).<br>
 <!--
 **deadpool-developer/deadpool-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

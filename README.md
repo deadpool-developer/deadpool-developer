@@ -30,5 +30,8 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=deadpool-developer&show_icons=true&locale=en&layout=compact">
   </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br>
+  <br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=deadpool-developer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
   <hr>
 <h3 align = "center">I TURN COFFEE INTO CODE 🔄</h3><hr>

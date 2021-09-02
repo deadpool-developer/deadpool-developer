@@ -8,4 +8,4 @@
 - 📧 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">adibhu025@gmail.com</a> <br><br><br><hr>
 <h3 align = "center">I TURN COFFEE INTO CODE 🔄</h3><hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=deadpool-developer&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=deadpool-developer&show_icons=true&locale=en&layout=compact">
+<img align ="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=deadpool-developer&show_icons=true&locale=en&layout=compact">

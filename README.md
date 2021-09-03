@@ -2,7 +2,7 @@
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=deadpool-developer&label=visitors%20&color=129e00&style=plastic" alt="deadpool_developer" /> 
 <img src="https://img.shields.io/github/followers/deadpool-developer?label=Followers&style=social">
-    <img src="https://img.shields.io/badge/Gmail-adibhu025@gmail.com-red">
+    <a href="https://mail.google.com/mail/u/0/?tab=km#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-adibhu025@gmail.com-red"></a>
 </p>
 <img align ="right" width="300" src="https://cdn.dribbble.com/users/31664/screenshots/6617652/morgan_4.gif">
 - ♐I am Aditya Saini. <br><br>

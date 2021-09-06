@@ -8,7 +8,7 @@
 - ♐I am Aditya Saini. <br><br>
 - 🔹 I am a <i><b>Frontend Developer</b>.</i> <br><br>
 - 🌱 IT Undergraduate.<br><br>
-- 📫 Connect with me on <a href="https://www.linkedin.com/in/aditya-saini-286aa2182/" target =" _blank">Linkedin</a>.<br><br>
+- 📫 Connect with me on <a href="https://www.linkedin.com/in/aditya-saini-286aa2182/" target =" _blank">Linkedin</a>.<br><br><br>
 <h2> 🚀 Languages and Tools: </h2>
 
 <p align="left"> 

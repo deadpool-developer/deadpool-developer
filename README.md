@@ -11,7 +11,7 @@
  
 
 <img align ="right" width="300" src="https://cdn.dribbble.com/users/31664/screenshots/6617652/morgan_4.gif">
-I'm a third year undergraduate student majoring in Information Technology with an Interest in Web Development and Problem Solving. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in HTML, CSS, JavaScript, ReactJS, Redux, TailwindCSS, Bootstrap etc. and currently I am exploring Backend using NodeJS.<br><br>
+I'm a third year undergraduate student majoring in `Information Technology` with an Interest in `Web Development` and `Problem Solving`. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in HTML, CSS, JavaScript, ReactJS, Redux, TailwindCSS, Bootstrap etc. and currently I am exploring `Backend using NodeJS`<br><br>
 - 🔭 I’m currently working on ReactJS <br>
 - 🌱 I’m currently learning MERN stack <br>
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/aditya-saini-286aa2182/" target =" _blank">Linkedin</a>.<br><br><br>

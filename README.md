@@ -11,9 +11,11 @@
  
 
 <img align ="right" width="300" src="https://cdn.dribbble.com/users/31664/screenshots/6617652/morgan_4.gif">
-<b><em>I'm a final year student majoring in Information Technology with an Interest in Web Development and Problem Solving. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in HTML, CSS, JavaScript, ReactJS, Redux, TailwindCSS, Bootstrap etc. and currently I am exploring Backend using NodeJS.</em><b><br><br>
-- 🔭 I’m currently learning DSA. <br>
-- 🌱 I’m currently learning MERN stack <br>
+<b><em>Software Engineer with experience in building scalable enterprise applications using ASP.NET Core, C#, .NET, RESTful APIs, and Microsoft SQL Server. Currently working at Eicore Technologies, developing insurance policy and claims management systems with workflow automation, API integrations, and data pipelines to improve operational efficiency and system performance.
+Skilled in backend development, microservices architecture, RBAC authentication systems, API development, and database optimization. Experienced with HTML, CSS, JavaScript, AJAX, jQuery, Python, Java, and tools like Git, GitHub, Postman, Jira, Azure, IIS, Power BI, and Visual Studio.  ￼
+Strong foundation in Data Structures, Algorithms, OOP, and Software Development Lifecycle, with hands-on experience building dashboards, workflow engines, communication systems, and large-scale API integrations in Agile environments. </em><b><br><br>
+- 🔭 Currently exploring and building knowledge in AI agents and intelligent automation.<br>
+- 🌱 I’m currently exploring new opportunities in Full-Stack Development.<br>
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/aditya-saini-286aa2182/" target =" _blank">Linkedin</a>.<br><br><br>
 <h2> 🚀 Languages and Tools: </h2>
 

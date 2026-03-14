@@ -6,7 +6,7 @@
  <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=deadpool-developer&label=visitors%20&color=129e00&style=plastic" alt="deadpool_developer" /> 
 <img src="https://img.shields.io/github/followers/deadpool-developer?label=Followers&style=social">
-    <a href="https://mail.google.com/mail/u/0/?tab=km#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-adibhu025@gmail.com-red"></a>
+    <a href="https://mail.google.com/mail/u/0/?tab=km#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-adityas02511@gmail.com-red"></a>
 </p>
  
 
